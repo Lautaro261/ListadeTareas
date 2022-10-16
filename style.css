@@ -1,0 +1,66 @@
+
+body{
+    background-image: url('fondo3.jpg');
+    background-repeat: no-repeat;
+    
+    
+
+}
+
+h1{
+    text-align: center;
+    font-family:'Trebuchet MS';
+    color: rgb(255, 255, 255);
+    
+}
+
+.contenedor{
+    background: rgba(5, 129, 52, 0.562);
+    width: 50%;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    
+}
+.contenedor2{
+    width: 100%;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 50%;
+    outline: none;
+    padding: 7px 10px;
+}
+
+
+
+
+#boton{
+    background: rgba(91, 194, 23, 0.664);
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 10px 15px;
+    margin-left: 2px;
+    font-size: large;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+p{
+    color: white;
+}
