@@ -25,7 +25,7 @@ h1{
     padding-bottom: 10px;
     
 }
-.contenedor2{
+.cajita{
     width: 100%;
 }
 
@@ -42,7 +42,7 @@ input{
 
 
 
-#boton{
+.btn{
     background: rgba(91, 194, 23, 0.664);
     color: rgb(255, 255, 255);
     border: 1px solid white;
